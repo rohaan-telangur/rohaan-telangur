@@ -8,7 +8,7 @@
 <h3  align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 <p> I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
- - 🌱 I’m currently learning *MERN Stack*
+ - 🌱 I’m currently working on *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-rohaantelangur.vercel.app/)**
 - 💬 Ask me about anything, I am happy to help;
@@ -30,14 +30,3 @@
  <p align="center"><img alt="Gourab Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohaantelangur&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />   
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohaantelangur&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242"/></p>
-<br>
-<p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohaantelangur&&theme=highcontrast" alt="Gourav1221" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
